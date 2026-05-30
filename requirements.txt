@@ -1,0 +1,12 @@
+-e .
+numpy
+pandas
+tqdm
+scipy
+scikit-learn
+optuna
+matplotlib
+seaborn
+pennylane
+cvxpy
+ribs[visualize]
